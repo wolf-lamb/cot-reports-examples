@@ -1,0 +1,7 @@
+Repository description (for the GitHub "About" box):
+Python and JavaScript examples for CFTC Commitments of Traders (COT) data: COT Data API, CSV and MCP server.
+
+Website: https://cot-reports.com/
+
+Topics:
+commitments-of-traders, cot-report, cftc, futures, trading-data, mcp, python, javascript
